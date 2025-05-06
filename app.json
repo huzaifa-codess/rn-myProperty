@@ -17,7 +17,7 @@
       "package": "com.render.rnmyproperty",
       "versionCode": 3,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/app_icon.png",
+        "foregroundImage": "./assets/GlobalZamindarSplashScreen.png",
         "backgroundColor": "#FFFFFF"
       },
       "config": {
