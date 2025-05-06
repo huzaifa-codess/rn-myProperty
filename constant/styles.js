@@ -126,13 +126,13 @@ export const Fonts = {
   },
 
   primaryColor16Medium: {
-    color: "#FF7675",
+    color: "#2596be",
     fontSize: 16,
     fontFamily: "Poppins_Medium",
   },
 
   primaryColor18Bold: {
-    color: "#FF7675",
+    color: "#2596be",
     fontSize: 18,
     fontFamily: "Poppins_Bold",
   },
@@ -168,7 +168,7 @@ export const Fonts = {
   },
 
   redColor14Medium: {
-    color: "#FF0000",
+    color: "#045b7b",
     fontSize: 14,
     fontFamily: "Poppins_Medium",
   },
@@ -181,7 +181,7 @@ export const Fonts = {
 };
 
 export const Colors = {
-  primaryColor: "#FF7675",
+  primaryColor: "#085778",
   whiteColor: "#FFFFFF",
   blackColor: "#000000",
   grayColor: "#808080",

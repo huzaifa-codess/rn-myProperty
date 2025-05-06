@@ -48,8 +48,8 @@ const LoginScreen = () => {
       <StatusBar translucent backgroundColor="rgba(0,0,0,0)" />
       <ImageBackground
         style={{ flex: 1 }}
-        source={require("../../assets/images/bg.jpg")}
-        resizeMode="cover"
+        source={require("../../assets/images/app_icon.png")}
+        resizeMode="stretch"
       >
         <LinearGradient
           start={{ x: 0, y: 1 }}
@@ -138,9 +138,9 @@ const LoginScreen = () => {
           start={{ x: 1, y: 0 }}
           end={{ x: 0, y: 0 }}
           colors={[
-            "rgba(255, 118, 117, 0.8)",
-            "rgba(255, 118, 117, 0.6)",
-            "rgba(255, 118, 117, 0.4)",
+            "rgba(4, 91, 123, 0.8)",
+            "rgba(4, 91, 123, 0.6)",
+            "rgba(4, 91, 123, 0.4)",
           ]}
           style={styles.continueButtonStyle}
         >
