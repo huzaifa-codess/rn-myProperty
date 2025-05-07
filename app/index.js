@@ -32,7 +32,7 @@ const SplashScreen = () => {
       />
       <ImageBackground
         style={{ flex: 1 }}
-        source={require("../assets/GlobalZamindarSplashScreen.png")}
+        source={require("../assets/images/GlobalZamindarSplashScreen.png")}
         resizeMode="stretch"
       >
         <LinearGradient
